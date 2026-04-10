@@ -37,7 +37,9 @@ h1,h2,h3{
 table{
     border: 1px solid black;
 }
-
+#headings3{
+    color: red;
+}
 
 #images {
          text-align : center;  /* careful: center has US spelling */
